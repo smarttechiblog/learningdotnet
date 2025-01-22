@@ -1,0 +1,15 @@
+/workspaces/learningdotnet/basicApp/bin/Debug/net8.0/basicApp
+/workspaces/learningdotnet/basicApp/bin/Debug/net8.0/basicApp.deps.json
+/workspaces/learningdotnet/basicApp/bin/Debug/net8.0/basicApp.runtimeconfig.json
+/workspaces/learningdotnet/basicApp/bin/Debug/net8.0/basicApp.dll
+/workspaces/learningdotnet/basicApp/bin/Debug/net8.0/basicApp.pdb
+/workspaces/learningdotnet/basicApp/obj/Debug/net8.0/basicApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/learningdotnet/basicApp/obj/Debug/net8.0/basicApp.AssemblyInfoInputs.cache
+/workspaces/learningdotnet/basicApp/obj/Debug/net8.0/basicApp.AssemblyInfo.cs
+/workspaces/learningdotnet/basicApp/obj/Debug/net8.0/basicApp.csproj.CoreCompileInputs.cache
+/workspaces/learningdotnet/basicApp/obj/Debug/net8.0/basicApp.sourcelink.json
+/workspaces/learningdotnet/basicApp/obj/Debug/net8.0/basicApp.dll
+/workspaces/learningdotnet/basicApp/obj/Debug/net8.0/refint/basicApp.dll
+/workspaces/learningdotnet/basicApp/obj/Debug/net8.0/basicApp.pdb
+/workspaces/learningdotnet/basicApp/obj/Debug/net8.0/basicApp.genruntimeconfig.cache
+/workspaces/learningdotnet/basicApp/obj/Debug/net8.0/ref/basicApp.dll
